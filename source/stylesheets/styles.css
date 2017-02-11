@@ -101,3 +101,14 @@ header h2.subheading {
 .help-group .opportunity p.description {
   font-size: 12px;
 }
+
+footer {
+  text-align: center;
+  font-size: 12px;
+  color:#f3392b;
+  font-family: 'Arvo', serif;
+}
+
+footer a {
+    color:#f3392b;
+}

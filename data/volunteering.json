@@ -18,6 +18,48 @@
                 {
                     "name": "Childcare Assistant&nbsp;//&nbsp;Nashville Center for Empowerment (N.I.C.E)",
                     "description": "Work with children of all ages as their parents attend English classes on site. Volunteers are welcome to bring their own children. Opportunities are available Monday through Thursday, morning (9 a.m. &dash; 1 p.m. and evenings (6 &dash; 8 p.m.), according to our class offerings. We ask for 2 &dash; 4 hour commitment each week."
+                },
+                {
+                    "name": "Friend to a refugee elder&nbsp;//&nbsp;Catholic Charities",
+                    "description": "American friend partners one on one with a refugee senior to reduce client's social isolation, to provide much-needed companionship and to help our elderly refugees explore their new community safely."
+                },
+                {
+                    "name": "Kindergarten Program // Legacy Mission Village",
+                    "description": "Legacy Mission Village teacher help prepare refugee children and their parents to enroll in local schools by reducing the culture and readiness gap that exists between refugee children and their American peers"
+                },
+                {
+                    "name": "Literary Tutor // Nashville Literacy Council",
+                    "description": "One-on-One tutors meet with learners two to three hours per week. We suggest meeting two times a week for one and a half hours per session."
+                }
+            ]
+        },
+        {
+            "name": "Groups",
+            "opportunities": [
+                {
+                    "name": "Move in teams // Catholic Charities",
+                    "description": "Assists with moving in furniture and setting up apartments and houses for newly arrived refugees."
+                },
+                {
+                    "name": "Family mentor // Legacy Mission Village",
+                    "description": "Vist a refugee family or individual two times a week to help them learn basic English"
+                }
+            ]
+        },
+        {
+            "name": "Donate",
+            "opportunities": [
+                {
+                    "name": "ESL-To-Go",
+                    "description": "$70: One term of English class for a student"
+                },
+                {
+                    "name": "Catholic Charities",
+                    "description": "$25 Provides one week of supplies, snacks, homework assistance and hands-on activities to a refugee youth in our after-school program."
+                },
+                {
+                    "name": "Furniture Donation // World Relief",
+                    "description": "Used furniture needed: dining room sets, dressers, coffee tables, end tables & couches."
                 }
             ]
         }
