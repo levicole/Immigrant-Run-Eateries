@@ -1,0 +1,38 @@
+<div class="row divider">
+  <img src="/images/divider.png" alt="">
+</div>
+<section class="row">
+  <% data.restaurants.categories.each do |category| %>
+    <div class="group col-lg-3 col-md-6 col-xs-6">
+      <div class="group-content">
+        <h3 class="group-heading"><%= category.name %></h3>
+        <ul class="group-list">
+          <% category.places.each do |place| %>
+            <li>
+              <a href="<%= place.url%>"><%= place.name %></a>
+            </li>
+          <% end %>
+        </ul>
+      </div>
+    </div>
+  <% end %>
+</section>
+<div class="row divider">
+  <img src="/images/divider.png" alt="">
+</div>
+<section class="row" id="volunteer">
+  <div class="col">
+    <h2>Volunteer Opportunities</h2>
+    <% data.volunteering.categories.each do |category| %>
+      <div class="help-group">
+        <h3 class="category"><%= category.name %></h3>
+        <% category.opportunities.each do |opportunity| %>
+          <div class="opportunity">
+            <h4 class="name"><%= opportunity.name %></h4>
+            <p class="description"><%= opportunity.description %></p>
+          </div>
+        <% end %>
+      </div>
+    <% end %>
+  </div>
+</section>

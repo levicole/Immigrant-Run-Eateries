@@ -1,0 +1,103 @@
+body {
+  font-family: 'Arvo', serif;
+}
+
+header {
+  margin-top: 40px;
+}
+
+header h1.logo {
+  margin-bottom: 40px;
+}
+
+header h1.logo img {
+  height: 159px;
+  width:269px;
+}
+
+header h2.subheading {
+  color:#f3392b;
+  font-size: 16px;
+  font-family: 'Arvo', serif;
+  text-transform: uppercase;
+}
+
+.row.divider {
+  margin-top: 20px;
+  margin-left: 2px;
+  margin-bottom: 20px;
+}
+
+.group .group-content {
+  height: 220px;
+  padding: 20px 40px;
+  margin-bottom: 20px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.group:nth-child(even) .group-content {
+  background-color: #f3f5ff;
+}
+
+.group:nth-child(odd) .group-content {
+  background-color: #fde9e6;
+}
+
+.group h3 {
+  font-family: "Open Sans", Helvetica, sans-serif;
+  font-size: 1rem;
+  font-weight: bold;
+  color: #001bd6;
+  border: 2px solid #001bd6;
+}
+
+.group ul.group-list{
+  padding-left: 0;
+}
+.group .group-list li {
+  font-size: 14px;
+  list-style: none;
+}
+
+.group .group-list li a {
+  color:#f3392b;
+}
+
+#volunteer h2 {
+  color:#f3392b;
+  font-size: 16px;
+  font-family: 'Arvo', serif;
+  text-transform: uppercase;
+}
+
+.help-group {
+  margin-top: 20px;
+}
+
+.help-group .category {
+  display: inline-block;
+  font-family: "Open Sans", Helvetica, sans-serif;
+  font-size: 1rem;
+  font-weight: bold;
+  color: #001bd6;
+  border: 2px solid #001bd6;
+  text-transform: uppercase;
+  padding: 10px;
+}
+
+.help-group .opportunity {
+  margin-top: 20px;
+  color:#f3392b;
+  font-family: 'Arvo', serif;
+}
+
+.help-group .opportunity h4.name {
+  font-size: 14px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.help-group .opportunity p.description {
+  font-size: 12px;
+}
