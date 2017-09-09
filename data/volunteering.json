@@ -12,10 +12,6 @@
                     "description": "Visit a refugee family or individual two times a week to help them learn basic English"
                 },
                 {
-                    "name": "High school refugee mentor&nbsp;//&nbsp;World Relief",
-                    "description": "Develop relationships with high school refugee students and help prepare them for graduation and life after high school. Mentors play a valuable role in social and emotional development, provide insight and access to local American culture, and act as an external support system"
-                },
-                {
                     "name": "Childcare Assistant&nbsp;//&nbsp;Nashville Center for Empowerment (N.I.C.E)",
                     "description": "Work with children of all ages as their parents attend English classes on site. Volunteers are welcome to bring their own children. Opportunities are available Monday through Thursday, morning (9 a.m. &dash; 1 p.m. and evenings (6 &dash; 8 p.m.), according to our class offerings. We ask for 2 &dash; 4 hour commitment each week."
                 },
@@ -31,6 +27,7 @@
                     "name": "Literary Tutor // Nashville Literacy Council",
                     "description": "One-on-One tutors meet with learners two to three hours per week. We suggest meeting two times a week for one and a half hours per session."
                 }
+             
             ]
         },
         {
@@ -56,11 +53,8 @@
                 {
                     "name": "Catholic Charities",
                     "description": "$25 Provides one week of supplies, snacks, homework assistance and hands-on activities to a refugee youth in our after-school program."
-                },
-                {
-                    "name": "Furniture Donation // World Relief",
-                    "description": "Used furniture needed: dining room sets, dressers, coffee tables, end tables & couches."
                 }
+
             ]
         }
     ]
